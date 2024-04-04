@@ -1,4 +1,4 @@
-from init_values import *
+from valores import *
 from tabulate import *
 
 def criar_tabela():
@@ -22,5 +22,3 @@ def criar_tabela():
     
     distro = [[classe, frequencia] for classe, frequencia in tabela.items()]
     print(tabulate(distro, headers=["Classes", "Frequencia"], tablefmt="grid",stralign="center", numalign="center"))
-
-criar_tabela()

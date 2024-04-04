@@ -39,11 +39,6 @@ def opcao():
         return terminal()
     elif opc == 2:
         return anexar()
-
-
-# valores = opcao()
-# classes, amplitude = variaveis()
-# print(valores)
     
 
 
