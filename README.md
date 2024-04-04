@@ -7,9 +7,9 @@ Os dados podem ser inseridos via terminal ou carregados por arquivos.txt
 A lib tabulate foi usada para criar e formatar a tebela com as classes e suas respectivas frequências.
 
 <p align="left">
-<img src="images/image-1.png">  
+<img src="images/image-1.png">  1.0 - Dados em um arquivo.
 </p>
-1.0 - Dados em um arquivo.  
+  
 
 Executa-se o arquivo main.py
 <p align="left">
